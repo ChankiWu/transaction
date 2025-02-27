@@ -17,10 +17,3 @@ This is a simple banking transaction management application developed using Spri
 ## Prerequisites
 - **JDK 21**: Ensure Java Development Kit 21 is installed.
 - **Maven**: Version 3.x or higher.
-
-## Installation and Running
-
-### Clone the Repository
-```bash
-git clone <repository-url>
-cd <project-directory>
